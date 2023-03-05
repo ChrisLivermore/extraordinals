@@ -1,0 +1,15 @@
+{
+    "name": "Numeric Archetypes",
+    "supply": "9",
+    "range":"21787- 22907" ,
+    "about": "Numeric Archetypes is the outcome of a vision that aims to curate the best algorithmic generative art on the Bitcoin blockchain leveraging Ordinals’ technology. Now that we can store (relatively big)data directly on-chain without using any third-party other than the Bitcoin blockchain, the setup was just perfect to launch the first collection under the Numeric Archetypes umbrella: ‘Computational heartbeat’. \nThis genesis collection was designed and coded by  @wronguser , one of the co-founders. There are 9 unique archetypes made via Processing, each one of them is a 800×800 pixels 12 frames gif of algorithmic generative art stored on-chain secured by the Bitcoin blockchain. All 9 outputs are made with the same algorithm with no changes between outputs. They were all inscribed between the 21787th inscription and the 22907th one.\nThe concept behind ‘Computational heartbeat’ is straightforward still multiple ideas got into it: First of all, the birth of Numeric Archetypes as a project but also as a vision is translated into these nine outputs, the forever pillars, the first heartbeat of our journey and we are dedicated to make it as special as we can. The square-like renders of the 9 outputs are also referring to the Bitcoin blockchain and its blocks that are mainly depicted with cubes or squares in popular imagery. Since January 3rd, 2009 (i.e. the day the first Bitcoin block was mined), it’s one block at a time, one heartbeat at a time. Everything else we know and love in the current state of our ecosystem was just derived from this mother idea of giving freedom back to people and change the course of the history.\nWe find it very interesting that we actually went full circle and got back to where we all started: Bitcoin, but with a completely new technology enabling new exciting things. Numeric Archetypes will be here to stay and build a landscape for artists and collectors alongside everyone else who’s pushing for the space to improve: education-wise, tech-wise and art-wise.",
+    "how-to-buy":"Currently no way to buy the genesis collection" ,
+    "value-proposiion":"-",
+    "roadmap":"New collection is being worked on as we speak that will be accessible to the community",
+    "mint-status":" 1/9 sold on auctions, the rest is kept in the team treasury for now.",
+    "team":"Founded by wronguser and Loy, we are two IRL friends journeying in this space for 3 years, both of us got extremely excited as soon as we heard about ordinals and we started working on what is going to be our forever footprint on the mother blockchain: Bitcoin. \nWe are dedicated and are basically improving everyday on our skills, network and ambitions. We are also part of other early inscriptions projects and are excited for the future of the Ordinals ecosystem.",
+    "additional-links":"-",
+    "twitter_link": "https://twitter.com/NumArchetypes",
+    "discord_link": "https://discord.gg/C6VYhrvS",
+    "website_link": "https://numericarchetypes.com/"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Buterin Cards",
+    "supply": "5",
+    "range":"3027-3454" ,
+    "about": "The Buterin Cards is a small collection of 5 exclusive cards inscribed in the 3k range. The cards feature a meticulously crafted AI image of Vitalik and many references to the history of crypto, including NFTs and DeFi. Just like the Nakamoto Card is an iconic early NFT on Bitcoin, the Buterin Cards are the first inscriptions of Vitalik. Each card includes a distinct quote from Vitalik, starting with a controversial statement and concluding with a Bitcoin-friendly comment that turns Vitalik's laser eyes on.\nThe technical specifications of the cards involve an SVG frame that encloses the Vitalik JPEG inserted as a data URI. The color scheme of the Vitalik image in all cards is achieved by truncating a progressive JPEG. In card #1, the intensity channel is added, resulting in a black and white image, while all grey tones are incorporated in card #2. The addition of the blue chroma in card #3 produces a unique color effect that encompasses green and purple tones. Finally, cards #4 and #5 contain the full JPEG with all colors included.",
+    "how-to-buy":"You can buy directly from Xatarrer." ,
+    "value-proposiion":"Original art. Low inscription number.",
+    "roadmap":"-",
+    "mint-status":"All inscribed, but only one minted. 1 was sold in auction in scarce.city, 1 will be given to the top minter of our Ethereum NFT project to launch soon, and the 3 may be sold slowly over time.",
+    "team":"-",
+    "additional-links":"-",
+    "twitter_link": "https://twitter.com/Xatarrer",
+    "discord_link": "https://discord.gg/np3ZAJfS9X",
+    "website_link": ""
+}
